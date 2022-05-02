@@ -1,0 +1,30 @@
+[
+    {
+        "label": "Club",
+        "attribute": "club"
+    },
+    {
+        "label": "League",
+        "attribute": "league"
+    },
+    {
+        "label": "Nation",
+        "attribute": "nation"
+    },
+    {
+        "label": "Strong Foot",
+        "attribute": "strongFoot"
+    },
+    {
+        "label": "Age",
+        "attribute": "age"
+    },
+    {
+        "label": "Height",
+        "attribute": "height"
+    },
+    {
+        "label": "WorkRates",
+        "attribute": "workRatesAttacking"
+    }
+]

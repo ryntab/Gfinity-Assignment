@@ -1,0 +1,9 @@
+.invisible-scrollbar {
+    overflow: auto;
+    scrollbar-width: none;
+  }
+  
+  .invisible-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  

@@ -1,0 +1,26 @@
+[
+    {
+        "label": "PAC",
+        "attribute": "pace"
+    },
+    {
+        "label": "SHO",
+        "attribute": "shooting"
+    },
+    {
+        "label": "PAS",
+        "attribute": "passing"
+    },
+    {
+        "label": "DRI",
+        "attribute": "dribbling"
+    },
+    {
+        "label": "DEF",
+        "attribute": "defense"
+    },
+    {
+        "label": "PHY",
+        "attribute": "physical"
+    }
+]

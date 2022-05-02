@@ -1,0 +1,63 @@
+[
+    {
+        "label": "Name",
+        "attribute": "name"
+    },
+    {
+        "label": "Rating",
+        "attribute": "rating",
+        "type": "Stat",
+        "style": "highlight"
+    },
+    {
+        "label": "Position",
+        "attribute": "position",
+        "type": "Stat"
+    },
+    {
+        "label": "Skills",
+        "attribute": "skillMoves",
+        "type": "Stat"
+    },
+    {
+        "label": "PAC",
+        "attribute": "statistics.dribbling.average",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "SHO",
+        "attribute": "statistics.shooting.average",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "PAS",
+        "attribute": "statistics.passing.average",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "DRI",
+        "attribute": "statistics.dribbling.dribbling",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "DEF",
+        "attribute": "statistics.defense.average",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "PHY",
+        "attribute": "statistics.physical.average",
+        "type": "Stat",
+        "style": "outline"
+    },
+    {
+        "label": "WR",
+        "attribute": "statistics.dribbling.balance",
+        "type": "Stat"
+    }
+]
