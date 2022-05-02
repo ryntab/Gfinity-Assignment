@@ -1,7 +1,6 @@
 <template>
 <Table :cols="this.cols" :rows="this.fifaCards" :sortBy="sort" />
 </template>
-
 <script>
 import
 columns

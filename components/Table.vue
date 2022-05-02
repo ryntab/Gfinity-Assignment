@@ -1,9 +1,9 @@
 <template>
-<table v-if="this.rows" class="table w-full table-auto">
+<table v-if="this.rows" class="table table-auto">
     <thead class="bg-dark-900">
         <TableHeader v-if="this.cols != null" :cols="cols" :sortBy="sortBy" />
     </thead>
-    <tbody>
+    <tbody class="h-full overflow-scroll">
         <TableRow :cols="cols" :row="row" v-for="row in this.rows" v-bind:key="row.id" />
     </tbody>
 </table>
